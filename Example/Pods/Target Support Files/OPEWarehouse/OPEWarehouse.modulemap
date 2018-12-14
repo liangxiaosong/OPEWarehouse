@@ -1,0 +1,6 @@
+framework module OPEWarehouse {
+  umbrella header "OPEWarehouse-umbrella.h"
+
+  export *
+  module * { export * }
+}

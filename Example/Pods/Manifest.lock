@@ -1,0 +1,16 @@
+PODS:
+  - OPEWarehouse (0.1.0)
+
+DEPENDENCIES:
+  - OPEWarehouse (from `../`)
+
+EXTERNAL SOURCES:
+  OPEWarehouse:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OPEWarehouse: 0c342c37a3da096b834ca0a4db319753f9ba7485
+
+PODFILE CHECKSUM: 580b27a17e106c79668e7448680979bf7a960e7a
+
+COCOAPODS: 1.5.3
